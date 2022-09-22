@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Tensor Flow 5.0/ Flutter**
+- 🌱 I’m currently learning **Tensor Flow / Flutter**
 
 - 📝 I regularly write articles on [https://medium.com/@omergrn25](https://medium.com/@omergrn25)
 
