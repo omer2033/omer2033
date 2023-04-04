@@ -1,12 +1,12 @@
-### Hi there 👋, Hi 👋, I'm Omer
+### Hi there 👋, I'm Omer
 #### A software developer from Turkey
 
 
 
-Skills: JAVA/PYTHON/MySql
+Skills: JAVA/PYTHON/MYSQL/SPRING/REACT
 
 - 🔭 I’m currently working on https://github.com/omergorenn/movies 
-- 🌱 I’m currently learning Prometheus Docker Bootstrap 
+- 🌱 I’m currently learning everything  🤣  
 - 📫 How to reach me: omergrn25@gmail.com 
 
 
