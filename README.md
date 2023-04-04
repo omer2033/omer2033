@@ -1,17 +1,24 @@
-<h1 align="center">Hi 👋, I'm Omer</h1>
-<h3 align="center">A software developer from Turkey</h3>
+### Hi there 👋, Hi 👋, I'm Omer
+#### A software developer from Turkey
 
-- 🌱 I’m currently working on **SPRING / REACT / ALERTING & MONITORING**
 
-- 📝 I regularly write articles on [https://medium.com/@omergrn25](https://medium.com/@omergrn25)
 
-- 📫 How to reach me **https://www.linkedin.com/in/omergrn/**
+Skills: JAVA/PYTHON/MySql
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omergrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omergrn" height="30" width="40" /></a>
-<a href="https://medium.com/@omergrn25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omergrn25" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on https://github.com/omergorenn/movies 
+- 🌱 I’m currently learning Prometheus Docker Bootstrap 
+- 📫 How to reach me: omergrn25@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omergorenn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/omergrn//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://omergorenn.github.io/cv/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@omergrn25)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=omergorenn)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=omergorenn&show_icons=true&count_private=true)  
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
